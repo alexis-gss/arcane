@@ -1,0 +1,12 @@
+/*Global*/
+::selection {
+    color: var(--color2);
+    background: var(--color1);
+}
+::-webkit-scrollbar{
+	background: var(--color3);
+	width: 14px;
+}
+::-webkit-scrollbar-thumb{
+	background: var(--color1);
+}
