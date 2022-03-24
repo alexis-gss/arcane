@@ -6,6 +6,6 @@
 
 <script>
   export default {
-    name: "get-request",
+    name: "get-main",
   }
 </script>

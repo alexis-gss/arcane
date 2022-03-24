@@ -1,11 +1,15 @@
 <template>
-  <footer>
-      
+  <footer class="footer">
+
   </footer>
 </template>
 
+<style lang="scss" scoped>
+  @import "@/assets/scss/front.scss";
+</style>
+
 <script>
   export default {
-    name: "get-request",
+    name: "get-footer",
   }
 </script>
