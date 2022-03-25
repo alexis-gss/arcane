@@ -35,5 +35,6 @@ export default {
 
   css: [
     '@/assets/css/reboot.css',
+    '@/assets/scss/front.scss'
   ],
 }
