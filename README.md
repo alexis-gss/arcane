@@ -1,20 +1,29 @@
-# Arcane
+# arcane
 
-## Guide d’utilisation
-### Installation
-```
+This template should help get you started developing with Vue 3 in Vite.
+
+## Recommended IDE Setup
+
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
 npm install
 ```
 
-### Compile et minifie pour la production
-```
-npm run build
-```
+### Compile and Hot-Reload for Development
 
-### Compile et recharge pour le développement
-```
+```sh
 npm run dev
 ```
 
-### Vous pouvez également accéder à l'application à l’aide du lien suivant :
-https://www.alexis-gousseau.com/data/Arcane/
+### Compile and Minify for Production
+
+```sh
+npm run build
+```

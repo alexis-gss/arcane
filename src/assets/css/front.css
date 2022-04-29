@@ -1,0 +1,18 @@
+/*Import all css*/
+@import "./fonts.css"; 
+
+@import "./variables.css";
+
+@import "./global.css";
+
+@import "./main.css";
+
+@import "./nav.css";
+
+@import "./home.css";
+
+@import "./history.css";
+
+@import "./characters.css";
+
+@import "./footer.css";
