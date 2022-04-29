@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="footer_logo">
       <a href="https://www.arcane.com" target="_blank">
-        <img src="../assets/data/global/logo-small.png" alt="Arcane logo">
+        <img src="../assets/data/global/logo-small.png" alt="Arcane logo" />
       </a>
     </div>
     <ul class="footer_icons">
@@ -66,7 +66,13 @@
       </li>
     </ul>
     <ul class="footer_rgpd">
-      <li>© 2022 <a href="https://www.alexis-gousseau.com/" target="_blank">Alexis Gousseau</a> | All rights reserved</li>
+      <li>
+        © 2022
+        <a href="https://www.alexis-gousseau.com/" target="_blank"
+          >Alexis Gousseau</a
+        >
+        | All rights reserved
+      </li>
       <li><a>French legal notices</a></li>
       <li><a>French Privacy Policy</a></li>
     </ul>

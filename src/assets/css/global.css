@@ -1,32 +1,42 @@
 /*Global*/
-*, ul{
-	transition: .1s;
-    padding: 0;
-    margin: 0;
+*,
+ul {
+  transition: 0.1s;
+  padding: 0;
+  margin: 0;
 }
-html, body{
-	color: var(--color1);
-	scroll-behavior: smooth;
-	font-family: "RobotoCondensed";
-    padding: 0;
-    margin: 0;
+html,
+body {
+  color: var(--color1);
+  scroll-behavior: smooth;
+  font-family: "RobotoCondensed";
+  padding: 0;
+  margin: 0;
 }
-ul, li, ol, p, a, button{
-	list-style: none;
-	border: none;
-	background-color: transparent;
+ul,
+li,
+ol,
+p,
+a,
+button {
+  list-style: none;
+  border: none;
+  background-color: transparent;
 }
-a, button{
-	cursor: pointer;
-	color: var(--color4);
+a,
+button {
+  cursor: pointer;
+  color: var(--color4);
 }
-a:hover, button:hover{
-        color: var(--color1);
+a:hover,
+button:hover {
+  color: var(--color1);
 }
-a:focus, button:focus{    
-    outline: none;
-    border-color: inherit;
+a:focus,
+button:focus {
+  outline: none;
+  border-color: inherit;
 }
-a:hover{
-	text-decoration: none;
+a:hover {
+  text-decoration: none;
 }

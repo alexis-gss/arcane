@@ -1,31 +1,35 @@
 /*Main*/
-.main{
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
+.main {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
 }
-.main_sections{
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
+.main_sections {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
 }
-.home, .history, .characters {
-    width: 100%;
-    height: 100vh;
-	position: relative;
+.home,
+.history,
+.characters {
+  width: 100%;
+  height: 100vh;
+  position: relative;
 }
-.home_overlay, .history_overlay, .characters_overlay{
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: 1;
-        background-image: url('../data/global/filter.png');
-        background-size: 100% 100%;
-        background-repeat: no-repeat;
+.home_overlay,
+.history_overlay,
+.characters_overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  background-image: url("../data/global/filter.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
-img{
-    width: 100%;
-    height: 100%;
+img {
+  width: 100%;
+  height: 100%;
 }

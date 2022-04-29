@@ -1,5 +1,3 @@
 <template>
-  <section class="main_section characters">
-
-  </section>
+  <section class="main_section characters"></section>
 </template>
