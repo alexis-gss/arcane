@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="footer_logo">
       <a href="https://www.arcane.com" target="_blank">
-        <img src="../assets/data/global/logo.png" alt="Arcane logo">
+        <img src="../assets/data/global/logo-small.png" alt="Arcane logo">
       </a>
     </div>
     <ul class="footer_icons">
