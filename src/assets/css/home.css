@@ -63,8 +63,8 @@
   }
 }
 .home_details {
-  width: 100%;
-  height: 100%;
+  width: calc(100% - 14rem);
+  height: calc(100% - 12rem);
   padding: 6rem 7rem;
   z-index: 2;
   position: absolute;
@@ -79,6 +79,16 @@
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
+}
+.home_details_logos_svg {
+  width: 8rem;
+  height: 4rem;
+}
+.home_details_logos_riot svg {
+  fill: var(--color1);
+}
+.home_details_logos_netflix svg {
+  fill: #ac0000;
 }
 .home_details_btn {
   display: flex;
@@ -104,7 +114,7 @@
 }
 .home_overlay_scroll {
   position: absolute;
-  bottom: 3.5vh;
+  bottom: 3vh;
   left: 50%;
   transform: translateX(-50%);
   z-index: 0;

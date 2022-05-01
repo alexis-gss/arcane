@@ -18,7 +18,9 @@ li,
 ol,
 p,
 a,
+a:hover,
 button {
+  text-decoration: none;
   list-style: none;
   border: none;
   background-color: transparent;
@@ -36,7 +38,4 @@ a:focus,
 button:focus {
   outline: none;
   border-color: inherit;
-}
-a:hover {
-  text-decoration: none;
 }

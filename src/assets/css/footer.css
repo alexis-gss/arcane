@@ -47,6 +47,13 @@
 .footer_main .footer_svg:hover {
   fill: var(--color1);
 }
+.footer_main a,
+.footer_main p {
+  width: fit-content;
+}
+.footer_main p {
+  margin: 0.5rem 0;
+}
 .footer_rgpd {
   width: 45rem;
   padding: 2rem 0;
